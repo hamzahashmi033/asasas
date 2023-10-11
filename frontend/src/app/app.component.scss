@@ -1,0 +1,17 @@
+.mat-mdc-snack-bar-container {
+    &.black-snackbar {
+      --mdc-snackbar-container-color: #2196f3;
+      --mat-mdc-snack-bar-button-color: #f50808;
+      --mdc-snackbar-supporting-text-color: #ff0000;
+    }
+  }
+.mat-mdc-snack-bar-container {
+    &.green-snackbar {
+      --mdc-snackbar-container-color: #2196f3;
+      --mat-mdc-snack-bar-button-color: rgb(0, 30, 255)000;
+      --mdc-snackbar-supporting-text-color: #0015ff;
+    }
+  }
+  .selected{
+    background-color: #0015ff;
+  }
